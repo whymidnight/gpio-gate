@@ -1,7 +1,7 @@
 # usb multiplexer
 
 using usb switches with a micro-usb button to toggle between input channels,
-this program will alternate both usb switch inputs.
+this program will alternate both usb switch inputs. TESTED ON rPi 4B
 
 ## use case:
 
